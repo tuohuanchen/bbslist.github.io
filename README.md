@@ -163,6 +163,7 @@ As for personal sites never listed in previous BBS site lists, they can be liste
 | :white_check_mark: | 網際新世界 <br> *NETO WORLD* | [telnet://209.141.35.127](telnet://209.141.35.127) | [Sun of Beach](https://github.com/bbsmirror/BBSmirror/tree/master/SOB/) | 2021-01-11: Up <br> 2021-07-10: guest 無法登入（無此帳號） <br> guest cannot log in (unrecognized user ID) |
 | :x:<sup>:warning:</sup> | 月下夜想 <br> *Luna BBS* | [telnet://220.130.248.130](telnet://220.130.248.130) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2022-02-14: ping 有回應 Responsive to ping |
 | :x:<sup>:warning:</sup> | 永恆地域‧拉帕之結 <br> *Lapa BBS* | [telnet://lapa.tw](telnet://lapa.tw) | (不明; MapleBBS?) | 2022-11-17: guest 無法登入；登入即斷線 <br> guest cannot log in; disconnects as soon as log in <br> 2023-04-09: Down |
+| :white_check_mark: | 米博士開課 <br> *MilkTea BBS* | [telnet://bbs.rica.idv.tw](telnet://bbs.rica.idv.tw) | (PttBBS) | (2026-10-26: up 開站 Est. 2026-10-26) |
 
 </div>
 
